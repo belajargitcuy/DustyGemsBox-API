@@ -9,5 +9,24 @@
 <body>
     <h1>Go to API</h1>
     <a href="./API.json">API Link</a>
+    <ul class="box"></ul>
+
+    <script>
+        let box = document.querySelector('.box');
+        box.innerHTML = '';
+        async function tes(){
+            const res = await fetch('https://belajargitcuy.github.io/DustyGemsBox-API/API.json');
+            const jdat = await res.json();
+            jdat.map((d) => {
+                box.innerHTML += `<li>
+                    <h2>${d.name}</h2>
+                    <a href='${d.linkZip}'>Download</a>
+                    <p>${d.size}</p>
+                    </li>`;
+            });
+            console.log(jdat);
+        };
+        tes();
+    </script>
 </body>
 </html>
