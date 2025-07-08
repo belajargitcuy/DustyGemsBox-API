@@ -1,8 +1,23 @@
 [
     {
+        "name" : "",
+        "linkZip" : "",
+        "size" : "12 MB"
+    },
+    {
         "name" : "3 Pandas in Fantasy",
         "linkZip" : "https://firebasestorage.googleapis.com/v0/b/dustyfunbox.appspot.com/o/3-pandas-in-fantasy.zip?alt=media&token=80cf318c-133f-4b25-8e1a-b133195bae29&_gl=1*s9idjy*_ga*ODcxNzcwOTUzLjE2OTYyNjIxMjI.*_ga_CW55HF8NVT*MTY5NjI2MjEyMi4xLjEuMTY5NjI2NjgxNC42MC4wLjA.",
         "size" : "15 MB"
+    },
+    {
+        "name" : "Air Strike 3D",
+        "linkZip" : "https://firebasestorage.googleapis.com/v0/b/dustyfunbox.appspot.com/o/Airstrike3D.zip?alt=media&token=6d32f715-fc32-4bab-ad75-2111daba3816",
+        "size" : "26 MB"
+    },
+    {
+        "name" : "Bad Ice Cream Collections",
+        "linkZip" : "https://firebasestorage.googleapis.com/v0/b/dustyfunbox.appspot.com/o/BadIceCreamCollections.zip?alt=media&token=36bef904-72db-47df-8b5e-cbf4ac336506",
+        "size" : "10 MB"
     },
     {
         "name" : "Burrito Bison Package",
@@ -20,6 +35,11 @@
         "size" : "8 MB"
     },
     {
+        "name" : "Duck Life Collections",
+        "linkZip" : "https://firebasestorage.googleapis.com/v0/b/dustyfunbox.appspot.com/o/DucklifeCollections.zip?alt=media&token=af0a33db-edcf-45c8-a8c5-141c0233aca1",
+        "size" : "42 MB"
+    },
+    {
         "name" : "Dump Escape",
         "linkZip" : "https://firebasestorage.googleapis.com/v0/b/dustyfunbox.appspot.com/o/Dump-escape.zip?alt=media&token=2ea4dbf1-ba4c-469b-970a-4d981fe7ee3f&_gl=1*1viag32*_ga*ODcxNzcwOTUzLjE2OTYyNjIxMjI.*_ga_CW55HF8NVT*MTY5NjI2MjEyMi4xLjEuMTY5NjI2NzE1OC42MC4wLjA.",
         "size" : "9 MB"
@@ -33,6 +53,11 @@
         "name" : "Find The Candy Package",
         "linkZip" : "https://firebasestorage.googleapis.com/v0/b/dustyfunbox.appspot.com/o/FindTheCandyPackage.zip?alt=media&token=e27a825d-08a2-4eaa-a36a-bce25d778b4c&_gl=1*o8p7bl*_ga*ODcxNzcwOTUzLjE2OTYyNjIxMjI.*_ga_CW55HF8NVT*MTY5NjM0MzE5Mi4yLjEuMTY5NjM0MzMxMC42MC4wLjA.",
         "size" : "17 MB"
+    },
+    {
+        "name" : "Hamster Ball Gold",
+        "linkZip" : "https://firebasestorage.googleapis.com/v0/b/dustyfunbox.appspot.com/o/HamsterBallGold.zip?alt=media&token=997b09b3-91c9-40e0-b973-661ff92445f5",
+        "size" : "12 MB"
     },
     {
         "name" : "Haunt The House Terrortown",
@@ -58,6 +83,11 @@
         "name" : "Mad Burger",
         "linkZip" : "https://firebasestorage.googleapis.com/v0/b/dustyfunbox.appspot.com/o/Mad-burger.zip?alt=media&token=35090b7a-3885-40ed-8c6b-559c7774a36f&_gl=1*f5zuha*_ga*ODcxNzcwOTUzLjE2OTYyNjIxMjI.*_ga_CW55HF8NVT*MTY5NjM0MzE5Mi4yLjEuMTY5NjM0MzgxMS4xNS4wLjA.",
         "size" : "8 MB"
+    },
+    {
+        "name" : "Mansion Defender",
+        "linkZip" : "https://firebasestorage.googleapis.com/v0/b/dustyfunbox.appspot.com/o/mansiondefender.zip?alt=media&token=654f895e-cb93-404b-99b7-652763c52b20",
+        "size" : "15 MB"
     },
     {
         "name" : "Meand My Donkey",
@@ -99,6 +129,11 @@
         "linkZip" : "https://firebasestorage.googleapis.com/v0/b/dustyfunbox.appspot.com/o/RaftWar2.zip?alt=media&token=d9514a19-1318-4dd5-91c7-da474be89870&_gl=1*rqogor*_ga*ODcxNzcwOTUzLjE2OTYyNjIxMjI.*_ga_CW55HF8NVT*MTY5NjM0MzE5Mi4yLjEuMTY5NjM0NjAyMy42MC4wLjA.",
         "size" : "7 MB"
     },
+    {
+        "name" : "Sketch Quest",
+        "linkZip" : "https://firebasestorage.googleapis.com/v0/b/dustyfunbox.appspot.com/o/sketch-quest.zip?alt=media&token=140ec9b4-cca4-470a-bf87-5d67f2f7d42f",
+        "size" : "13 MB"
+    },
      {
         "name" : "Sleep Walk",
         "linkZip" : "https://firebasestorage.googleapis.com/v0/b/dustyfunbox.appspot.com/o/SleepWalk.zip?alt=media&token=70f1d614-35bd-4f18-ac8b-6b987d0850d5&_gl=1*1qo5qk1*_ga*ODcxNzcwOTUzLjE2OTYyNjIxMjI.*_ga_CW55HF8NVT*MTY5NjM0MzE5Mi4yLjEuMTY5NjM0NjA5OC42MC4wLjA.",
@@ -128,6 +163,11 @@
         "name" : "Treasure Seas Inc",
         "linkZip" : "https://firebasestorage.googleapis.com/v0/b/dustyfunbox.appspot.com/o/Treasure%20Seas%20Inc.rar?alt=media&token=03f45c8a-efbe-4326-b085-f893a14dc94e&_gl=1*1m3o3am*_ga*ODcxNzcwOTUzLjE2OTYyNjIxMjI.*_ga_CW55HF8NVT*MTY5NjM0MzE5Mi4yLjEuMTY5NjM0NjIzMi42LjAuMA..",
         "size" : "4 MB"
+    },
+    {
+        "name" : "Varmintz Deluxe",
+        "linkZip" : "https://firebasestorage.googleapis.com/v0/b/dustyfunbox.appspot.com/o/VarmintzDeluxe.zip?alt=media&token=cfd13af7-1d02-4f54-a3f2-89b9956bca95",
+        "size" : "10 MB"
     },
     {
         "name" : "Diggy",
