@@ -1,10 +1,5 @@
 [
     {
-        "name" : "",
-        "linkZip" : "",
-        "size" : "12 MB"
-    },
-    {
         "name" : "3 Pandas in Fantasy",
         "linkZip" : "https://firebasestorage.googleapis.com/v0/b/dustyfunbox.appspot.com/o/3-pandas-in-fantasy.zip?alt=media&token=80cf318c-133f-4b25-8e1a-b133195bae29&_gl=1*s9idjy*_ga*ODcxNzcwOTUzLjE2OTYyNjIxMjI.*_ga_CW55HF8NVT*MTY5NjI2MjEyMi4xLjEuMTY5NjI2NjgxNC42MC4wLjA.",
         "size" : "15 MB"
@@ -93,6 +88,11 @@
         "name" : "Meand My Donkey",
         "linkZip" : "https://firebasestorage.googleapis.com/v0/b/dustyfunbox.appspot.com/o/MeandMyDonkey.zip?alt=media&token=1a5aadab-c17c-4d2e-b967-d3828183c3f4&_gl=1*yfkwqc*_ga*ODcxNzcwOTUzLjE2OTYyNjIxMjI.*_ga_CW55HF8NVT*MTY5NjM0MzE5Mi4yLjEuMTY5NjM0MzgzOS42MC4wLjA.",
         "size" : "6 MB"
+    },
+    {
+        "name" : "Min Hero",
+        "linkZip" : "https://firebasestorage.googleapis.com/v0/b/dustyfunbox.appspot.com/o/minhero.zip?alt=media&token=d3867de3-a408-4db9-87d5-749d03d8c274",
+        "size" : "27 MB"
     },
     {
         "name" : "Mix a Monster",
